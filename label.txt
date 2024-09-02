@@ -1,0 +1,7 @@
+__ignore__
+_background_
+burger
+pizza
+idli
+butter paneer
+
